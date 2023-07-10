@@ -1,0 +1,11 @@
+.bottle {
+    padding: 40px 120px 40px 120px;
+    margin-left: 10%;
+    font-size:50px;
+    font-family: monospace;
+    border-radius: 4px 65px 4px 65px;
+    color: powderblue;
+    background-color: #009688;
+    cursor:pointer;
+    border: non;
+}
